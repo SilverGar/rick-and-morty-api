@@ -1,0 +1,15 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
